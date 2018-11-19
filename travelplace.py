@@ -1,0 +1,10 @@
+travelplace = ['usa' , 'tebet' , 'suzhou' , 'chengdu' , 'xian']
+print(travelplace)
+print(sorted(travelplace))
+print(travelplace)
+travelplace.reverse()
+print(travelplace)
+travelplace.reverse()
+print(travelplace)
+travelplace.sort()
+print(travelplace)
